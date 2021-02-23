@@ -1,0 +1,10 @@
+.headerBack{
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    background: rgb(56, 56, 56);
+    padding: 10px 0;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
